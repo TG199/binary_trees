@@ -1,4 +1,4 @@
-#include "binary_trees_h"
+#include "binary_trees.h"
 
 /**
  * is_leaf - check if node is leaf
@@ -29,5 +29,6 @@ size_t binary_tree_leaves(const binary_tree_t *tree)
 
 	if (is_leaf(tree))
 		return (1);
+
 	return (binary_tree_leaves(tree->left) + binary_tree_leaves(tree->right));
 }
