@@ -1,4 +1,4 @@
-#include "bnary_trees.h"
+#include "binary_trees.h"
 
 /**
  * binary_tree_insert_right - insight right sub-tree
