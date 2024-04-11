@@ -1,5 +1,6 @@
 #include "binary_trees.h"
 
+
 /**
  * recursive_depth - count depth
  * @tree: pointer to node to measure depth
