@@ -2,7 +2,7 @@
 /**
  * binary_tree_node - create binary tree
  * @parent: pointer to root node of tree
- * @value: data of node
+ * @value: dataa of node
  *
  * Return: parent node on SUCCESS, NULL on FAILURE
  */
